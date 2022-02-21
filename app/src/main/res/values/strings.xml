@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sistema Reservas</string>
+    <string name="txtRegistro">Registro</string>
+    <string name="txtLogin">Login</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+    <string name="txtRecuerdame">Recuérdame</string>
+    <string name="btnMenu">Menú</string>
+    <string name="btnReservas">Reservas</string>
+    <string name="opCerrarSesion">Cerrar Sesión</string>
+    <string name="nombreMenu">Nombre del menú</string>
+    <string name="detalleMenu">Detalle del menú</string>
+    <string name="precioMenu">Precio del menú</string>
+    <string name="btnBusqueda">Búsquedas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
